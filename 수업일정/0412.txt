@@ -1,0 +1,9 @@
+- mySQL 은 무료이며, 마리아디비라고도 불린다
+
+- http://127.0.0.1 => 로컬호스트
+
+- http의 기본 포트는 80이다.
+  https의 기본 포트는 443이다(s는 시큐리티/보안용).
+
+- localhost 
+C:\xampp\htdocs\mysite
