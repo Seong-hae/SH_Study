@@ -1,0 +1,96 @@
+5월4일(목)
+------------
+1. Vue JS 확장 : Vuex 라이브러리 적용하기
+  - Vuex Store 적용코딩2 : CDN방식
+2. 파일럿 PJ : 상세코딩
+  - 남성 패션 서브 페이지 상세코딩
+
+_____________________________________________________________________________
+
+
+-> 웹팩설치해서 싱글어플리케이션 만들때 cdn 버전이 안맞으면 안되여 
+
+-> 이미지를 제외한 인라인 태그는 transform 이 먹지 않는다
+
+
+
+
+
+해볼까....
+제품코드?
+
+
+[ 베르판 사이트 - https://verpan.com/ ]
+
+1. 가구별 카테고리
+1) Lighting
+- Floor Lamps, Pendants, Table Lamp,s Wall Lamps, XL Pendants
+2) Furniture
+- Seating, Sofa & Lounge, Storage & Wardrobe, Table
+3) Accessories
+- Decor, Rugs, Throws
+
+2. 상품명 : 같은 상품일 경우 뒤에 색상명이 달라진다.
+예) PANTOP Ø23 PENDANT CLASSIC BLUE
+     PANTOP Ø23 PENDANT DARK GREEN
+     PANTOP Ø23 PENDANT MATTE METALLIC
+
+3. 상품가격
+
+4. 상품설명 : 
+- 같은 라인의 상품은 문단형식의 설명글은 같다
+- 세부 정보는 상품마다 차이를 가진다
+
+5. 제품 세부 정보
+1) 조명일 경우 => 재료, 광원, 코드, 인증, 제품 치수, 박스 치수, 무게
+2) 가구일 경우 => 재료, 주문 제작 옵션, 제품 치수, 박스치수, 인증
+3) 부속품일 경우 => 재표, 제품 치수, 박스 치수, 인증, 무게
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
